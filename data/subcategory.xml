@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID_SUBCATEGORY</Data></Cell>
+			<Cell><Data ss:Type="String">nameSubcategory</Data></Cell>
+			<Cell><Data ss:Type="String">slug</Data></Cell>
+			<Cell><Data ss:Type="String">idCategory</Data></Cell>
+			<Cell><Data ss:Type="String">dateCreated</Data></Cell>
+			<Cell><Data ss:Type="String">dateLastUpdate</Data></Cell>
+			<Cell><Data ss:Type="String">isActive</Data></Cell>
+			<Cell><Data ss:Type="String">sourceName</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Celulares y Smartphones</Data></Cell>
+			<Cell><Data ss:Type="String">celulares_smartphones</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios para Celular</Data></Cell>
+			<Cell><Data ss:Type="String">accesorios_celular</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Camaras</Data></Cell>
+			<Cell><Data ss:Type="String">camaras</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios para Camaras</Data></Cell>
+			<Cell><Data ss:Type="String">accesorios_camaras</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Para Play Station</Data></Cell>
+			<Cell><Data ss:Type="String">playstation</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Para Xbox</Data></Cell>
+			<Cell><Data ss:Type="String">xbox</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Tablets</Data></Cell>
+			<Cell><Data ss:Type="String">tablets</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Laptops</Data></Cell>
+			<Cell><Data ss:Type="String">laptops</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Computadores</Data></Cell>
+			<Cell><Data ss:Type="String">computadores</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios para Laptops</Data></Cell>
+			<Cell><Data ss:Type="String">accesorios_laptops</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios Audio y Video</Data></Cell>
+			<Cell><Data ss:Type="String">accesorios_audio_video</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Equipos de DJ y Accesorios</Data></Cell>
+			<Cell><Data ss:Type="String">equipos_dj_accesorios</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Drones y Accesorios</Data></Cell>
+			<Cell><Data ss:Type="String">drones_accesorios</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Audio</Data></Cell>
+			<Cell><Data ss:Type="String">audio</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">#</Data></Cell>
+			<Cell><Data ss:Type="String">#</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:19:41</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">subcategory</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">ID_CATEGORY</Data></Cell>
+			<Cell><Data ss:Type="String">mainName</Data></Cell>
+			<Cell><Data ss:Type="String">name</Data></Cell>
+			<Cell><Data ss:Type="String">slug</Data></Cell>
+			<Cell><Data ss:Type="String">dateCreated</Data></Cell>
+			<Cell><Data ss:Type="String">isActive</Data></Cell>
+			<Cell><Data ss:Type="String">dateDrop</Data></Cell>
+			<Cell><Data ss:Type="String">dateLastUpdate</Data></Cell>
+			<Cell><Data ss:Type="String">categoryImage</Data></Cell>
+			<Cell><Data ss:Type="String">categoryDescription</Data></Cell>
+			<Cell><Data ss:Type="String">sourceName</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Vehiculos</Data></Cell>
+			<Cell><Data ss:Type="String">Vehículos</Data></Cell>
+			<Cell><Data ss:Type="String">vehiculos</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_1.png</Data></Cell>
+			<Cell><Data ss:Type="String">Vehiculos de todo tipo compra y venta</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">ofertas</Data></Cell>
+			<Cell><Data ss:Type="String">Supermercado</Data></Cell>
+			<Cell><Data ss:Type="String">supermercado</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_2.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los productos de supermercado</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Celulares y Telefonos</Data></Cell>
+			<Cell><Data ss:Type="String">celulares_telefonos</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_3.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los productos tecnologicos tables, celulares, laptos, video juegos etc</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Electrodomésticos</Data></Cell>
+			<Cell><Data ss:Type="String">Electrodomésticos</Data></Cell>
+			<Cell><Data ss:Type="String">electrodomesticos</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_4.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los electrodomesticos para el hogar</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Hogar y Muebles</Data></Cell>
+			<Cell><Data ss:Type="String">Hogar y Muebles</Data></Cell>
+			<Cell><Data ss:Type="String">hogar_muebles</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_5.png</Data></Cell>
+			<Cell><Data ss:Type="String">Muebles y enceres para tu casa u oficina</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Deportes y Fitness</Data></Cell>
+			<Cell><Data ss:Type="String">Deportes y Fitness</Data></Cell>
+			<Cell><Data ss:Type="String">deportes_fitness</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_6.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los elementos deportivos </Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Belleza y Cuidado Personal</Data></Cell>
+			<Cell><Data ss:Type="String">Belleza y Cuidado Personal</Data></Cell>
+			<Cell><Data ss:Type="String">belleza_cuidado_personal</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_7.png</Data></Cell>
+			<Cell><Data ss:Type="String">Salud y belleza para tu piel y la de tu familia</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios para Vehículos</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios para Vehículos</Data></Cell>
+			<Cell><Data ss:Type="String">accesorios_para_vehiculos</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_8.png</Data></Cell>
+			<Cell><Data ss:Type="String">No son vehiculos pero aquí encuentras todo, desde mantenimiento hasta lujos</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Herramientas</Data></Cell>
+			<Cell><Data ss:Type="String">Herramientas</Data></Cell>
+			<Cell><Data ss:Type="String">herramientas</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_9.png</Data></Cell>
+			<Cell><Data ss:Type="String">Herramientas basicas para tu casa o todo un set de herramientas para tu trabajo</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Construcción</Data></Cell>
+			<Cell><Data ss:Type="String">Construcción</Data></Cell>
+			<Cell><Data ss:Type="String">construccion</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_10.png</Data></Cell>
+			<Cell><Data ss:Type="String">Encuentra aquí todos los elementos para la construccion</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Inmuebles</Data></Cell>
+			<Cell><Data ss:Type="String">Inmuebles</Data></Cell>
+			<Cell><Data ss:Type="String">inmuebles</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_11.png</Data></Cell>
+			<Cell><Data ss:Type="String">Casas, Edificios, Bodegas, todo lo que necesites</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Compra Internacional</Data></Cell>
+			<Cell><Data ss:Type="String">Compra Internacional</Data></Cell>
+			<Cell><Data ss:Type="String">compra_internacional</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_12.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los productos que necesites que esten unidamente en stock fuera del pais</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Moda</Data></Cell>
+			<Cell><Data ss:Type="String">Moda</Data></Cell>
+			<Cell><Data ss:Type="String">moda</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_13.png</Data></Cell>
+			<Cell><Data ss:Type="String">Accesorios y ropa a la moda</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Bebes</Data></Cell>
+			<Cell><Data ss:Type="String">Bebes</Data></Cell>
+			<Cell><Data ss:Type="String">bebes</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_14.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todas las cosas que quieres para tu bebe</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Productos Sustentables</Data></Cell>
+			<Cell><Data ss:Type="String">Productos Sustentables</Data></Cell>
+			<Cell><Data ss:Type="String">productos_sustentables</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_15.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todos los productos sustentables y que cuidan el ambiente</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Salud y Equipamiento Médico</Data></Cell>
+			<Cell><Data ss:Type="String">Salud y Equipamiento Médico</Data></Cell>
+			<Cell><Data ss:Type="String">salud_equipamiento_medico</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_16.png</Data></Cell>
+			<Cell><Data ss:Type="String">Encuentra aquí desde medicamentos e items para tu salud, piel y demas</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Industrias y Oficinas</Data></Cell>
+			<Cell><Data ss:Type="String">Industrias y Oficinas</Data></Cell>
+			<Cell><Data ss:Type="String">industrias_oficinas</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_17.png</Data></Cell>
+			<Cell><Data ss:Type="String">Encuentra aquí todos los elementos para tu oficina</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Servicios</Data></Cell>
+			<Cell><Data ss:Type="String">Servicios</Data></Cell>
+			<Cell><Data ss:Type="String">servicios</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_18.png</Data></Cell>
+			<Cell><Data ss:Type="String">Buscas algun servicio que necesites, desde plomeria hasta montajes en globo</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Tiendas Oficiales</Data></Cell>
+			<Cell><Data ss:Type="String">Tiendas Oficiales</Data></Cell>
+			<Cell><Data ss:Type="String">tiendas_oficiales</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 20:15:12</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_19.png</Data></Cell>
+			<Cell><Data ss:Type="String">Busca aquí por una tienda oficial</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Camaras y Accesorios</Data></Cell>
+			<Cell><Data ss:Type="String">camaras_accesorios</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:07:36</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_20.png</Data></Cell>
+			<Cell><Data ss:Type="String">Encuenta aqui todo para tu camara y videos</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Consolas y Video Juegos</Data></Cell>
+			<Cell><Data ss:Type="String">Consolas_videojuegos</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:07:37</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_21.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todo para play station, Xbox y Swicht</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Computacion</Data></Cell>
+			<Cell><Data ss:Type="String">computacion</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:07:37</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_22.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todo en portatiles, computadores de escritorio</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Electronica, Audio y video</Data></Cell>
+			<Cell><Data ss:Type="String">electronica_audio_y_video</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:07:37</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_23.png</Data></Cell>
+			<Cell><Data ss:Type="String">Todo para el sonido y tus eventos</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Tecnologia</Data></Cell>
+			<Cell><Data ss:Type="String">Televisores</Data></Cell>
+			<Cell><Data ss:Type="String">televisores</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:07:37</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/2022/10/03/image_category_id_24.png</Data></Cell>
+			<Cell><Data ss:Type="String">Televisores y entretenimiento</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">#</Data></Cell>
+			<Cell><Data ss:Type="String">#</Data></Cell>
+			<Cell><Data ss:Type="String">2023-03-10 22:19:31</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">0000-00-00 00:00:00</Data></Cell>
+			<Cell><Data ss:Type="String">myPathImages/</Data></Cell>
+			<Cell><Data ss:Type="String">Main Page</Data></Cell>
+			<Cell><Data ss:Type="String">category</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
