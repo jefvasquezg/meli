@@ -4,7 +4,7 @@
 #List es un tipo de dato para almacenar una lista de elementos en python
 
 from flask import Flask, jsonify, request
-from .operacion_fuego_quasar import operacion_fuego
+from operacion_fuego_quasar import operacion_fuego
 
 class MyApp:
     def __init__(self):
