@@ -2,15 +2,9 @@
 #de un mensaje de socorro basandose en la distancia a treas satelites conocidos
 ## y reconstruir el mensaje original a partir de las partes recibidad en cada satelite.
 
-#1. se importa la libreria de matematicas para hacer todas los calculos
-import math
 
-import numpy as np
-from scipy import optimize
-from scipy.optimize import least_squares
-import trilateration
 
-#2. se definen tres diccionarios que contienen información sobre los satelites:
+#2. se definen los diccionarios que contienen información sobre los satelites:
 
 
 # Posiciones de los satélites (coordenadas x,y)
