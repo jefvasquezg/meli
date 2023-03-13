@@ -1,0 +1,22 @@
+CREATE TABLE `customer` (
+  `ID_CUSTOMER` int(11) NOT NULL AUTO_INCREMENT,
+  `userName` varchar(45) COLLATE utf8_spanish2_ci NOT NULL COMMENT 'Field to save username // campo para guardar el valor del username.\n',
+  `email` varchar(256) COLLATE utf8_spanish2_ci NOT NULL COMMENT 'Field to save email // campo para guardar el valor del email.',
+  `firstName` varchar(45) COLLATE utf8_spanish2_ci NOT NULL COMMENT 'Field to save first name // campo para guardar el primer nombre. ',
+  `secondName` varchar(45) COLLATE utf8_spanish2_ci DEFAULT NULL COMMENT 'Field to save second name // campo para guardar el segundo nombre.',
+  `lastName` varchar(45) COLLATE utf8_spanish2_ci NOT NULL COMMENT 'Field to save last name // campo para guardar el apellido.',
+  `secondSurname` varchar(45) COLLATE utf8_spanish2_ci DEFAULT NULL COMMENT 'Field to save second surname // campo para guardar el segundo apellido.',
+  `birthdate` datetime NOT NULL COMMENT 'Field to save birthdate // campo para almacenar la fecha de cumpleaños.',
+  `gender` varchar(20) COLLATE utf8_spanish2_ci DEFAULT NULL COMMENT 'Field to save the gender of the user " we can use a list o enum to this field but is a subtle topic you can add a lot of gender "  / Campo para guardar el genero del usuario " podemos usar una lista o enumerador para este campo pero como es un tema sutil/delicado se recomienda incluir todos los generos".',
+  `address` varchar(80) COLLATE utf8_spanish2_ci DEFAULT NULL COMMENT 'Field to save physical address / campo para guardar la direccion fisica del usuario.',
+  `phone` varchar(16) COLLATE utf8_spanish2_ci DEFAULT NULL COMMENT 'Field to save the phone number // Campo para almacenar el numero de telefono.',
+  `isActive` tinyint(4) NOT NULL DEFAULT 1 COMMENT 'Field to save the status account  // Campo para guardar el estado de la cuenta --  borrado logico. ',
+  `dateJoined` datetime NOT NULL DEFAULT current_timestamp() COMMENT 'Field to save the date of register // Campo para almacenar la fecha de registro del usuario.',
+  `dateDrop` datetime NOT NULL COMMENT 'Field to save the date of drop the user account // Campo para almacenar la fecha de baja del usuario  --  borrado logico.',
+  `dateLastUpdate` datetime DEFAULT NULL COMMENT 'Field to save the last update to the user account // Campo para guardar la ultima actualizacion de la cuenta de usuario.',
+  `customerType` int(11) NOT NULL COMMENT 'Field to create relation with other table in this case to customer Type because we can a lot of type of customer // Campo para crear relación con otra tabla en este caso con el tipo de cliente porque podemos tener muchos tipos de clientes',
+  `sourceName` varchar(9) COLLATE utf8_spanish2_ci NOT NULL DEFAULT 'customer' COMMENT 'Field to save automatically the name of the source because when you use this table in some join you case see the table in the result of the script // Campo para guardar automaticamente el nombre de la tabla ya que cuando esta tabla pueda ser usada en algun join en la consulta resultante pueda ver la tabla -- esto en caso de que el GUI no diferencie las tablas por colores.',
+  PRIMARY KEY (`ID_CUSTOMER`),
+  KEY `fk_customerType` (`customerType`),
+  CONSTRAINT `fk_customerType` FOREIGN KEY (`customerType`) REFERENCES `customertype` (`ID_CUSTOMER_TYPE`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=56 DEFAULT CHARSET=utf8 COLLATE=utf8_spanish2_ci COMMENT='This table contains the data of customers like in the Meli exercise Customer';
